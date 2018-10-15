@@ -1,2 +1,2 @@
 # DataStructures
-Coursera (UCSD)
+Coursera (UCSD) - course 2
